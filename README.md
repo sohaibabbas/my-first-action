@@ -1,2 +1,2 @@
 # my-first-action
-This is my first repository action.
+This is my first action.
